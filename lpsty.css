@@ -1,0 +1,95 @@
+.background{
+    position: absolute;
+    
+    z-index: -1;
+    top: 0;
+    left: 0;
+
+
+}
+
+.headings{
+    position: relative;
+    color: rgb(10, 10, 10);
+    
+    
+}
+.headings h1{
+    font-size: 100px;
+    color: darkgoldenrod;
+    margin-left: 420px;
+    margin-top: 0%;
+}
+
+
+.headings p{
+    font-size: 50px;
+    color: rgb(37, 36, 36);
+   margin-left: 480px;
+   margin-bottom: 0%; 
+   margin-top: 0%;
+   font-family:sans-serif;
+   font-weight: bold;
+
+}
+
+#firstl{
+    margin-bottom: 0%;
+    margin-left: 415px;
+    margin-top: 50px;
+    font-size: 100px;
+    
+}
+
+.form{
+     text-align: left;
+     font-size: 30px;
+     background-color: rgba(189, 193, 197, 0.589);
+     display: block;
+     width: 400px;
+     color: rgb(11, 11, 11);
+     text-shadow: 1.5px 1.5px white;
+}
+
+#name{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    
+}
+#add{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+
+#num{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+#id{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color:rgba(185, 74, 22, 0.77) ;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 90px;
+    color: white;
+    border-radius: 15%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: gainsboro;
+    margin-left: 900px;
+    margin-top: -90px;
+    font-size: 40px;
+}
